@@ -1,0 +1,10 @@
+show db - all db
+
+db - current db
+
+use <db_name> - ...
+
+db.products.insertOne({ document})
+
+db.products.find()
+
